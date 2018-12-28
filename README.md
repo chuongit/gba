@@ -1,5 +1,5 @@
 # Tetris game for Nintendo Gameboy Advance
-Project for learning the system architecture of Gameboy Advance console
+Personal project for learning the system architecture of Gameboy Advance console and embedded programming.
 
 ## Implementation  
 - Mode 4 – Bitmap background  
@@ -20,6 +20,6 @@ Project for learning the system architecture of Gameboy Advance console
 - Right: move right  
 - Down: move down  
 - Start: Pause/Resume  
-- +30 score to up level (faster)  
+- +30 scores to up level (faster)  
 
 ![Demo in GBA emulator](Demo.png)
